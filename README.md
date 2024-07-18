@@ -11,7 +11,7 @@ Small PowerShell  Based PoC to demonstrate Password Spraying on a domain leverag
 
 #### Example Usage:
 ```PowerShell
-Spray -User "users.txt" -Password "TryToh@ck!"
+Spray -User ".\users.txt" -Password "TryToh@ck!"
 ```
 
-![image](https://github.com/anans3-gh/LDAPSpray/assets/57995347/76fdf6a3-5212-4471-a7b3-6a770a20cecd)
+![image](https://github.com/user-attachments/assets/39891ced-ae8f-414e-af13-88ce63748e57)
